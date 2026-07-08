@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Kiritu Kagunya</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=850&lines=Full-Stack+Software+Developer;Android+Developer+(Kotlin);Python+%7C+Django+%7C+FastAPI;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Full-Stack+Software+Developer;Android+Developer+(Kotlin);Python+%7C+Django+%7C+FastAPI;C+%7C+C%2B%2B+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
@@ -25,6 +25,8 @@
 
 ⚡ Backend Developer using **Python, Django & FastAPI**
 
+💻 Comfortable building software with **C and C++**
+
 🎨 I enjoy creating beautiful user interfaces with responsive designs.
 
 🚀 I love transforming ideas into software that solves real-world problems.
@@ -38,7 +40,7 @@
 ## Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,kotlin,html,css,mysql"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,kotlin,html,css,mysql"/>
 </p>
 
 ## Frontend
@@ -113,6 +115,7 @@
 
 - 📱 Android Development
 - 🌐 Full-Stack Web Applications
+- 💻 C & C++ Programming
 - 🤖 Artificial Intelligence
 - ☁️ Cloud Computing
 - 🛡️ Cybersecurity
